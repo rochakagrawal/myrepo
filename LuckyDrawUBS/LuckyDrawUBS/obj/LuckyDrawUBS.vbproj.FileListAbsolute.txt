@@ -1,0 +1,10 @@
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\bin\Debug\LuckyDrawUBS.exe
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\bin\Debug\LuckyDrawUBS.pdb
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\bin\Debug\LuckyDrawUBS.xml
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.Form1.resources
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.Resources.resources
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.exe
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.xml
+C:\Documents and Settings\Rochak\My Documents\Visual Studio 2005\Projects\LuckyDrawUBS\LuckyDrawUBS\obj\Debug\LuckyDrawUBS.pdb
